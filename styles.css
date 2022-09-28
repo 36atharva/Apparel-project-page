@@ -133,7 +133,7 @@ header{
 }
 
 
-@media screen and (max-width: 768px){
+@media only screen and (max-width: 768px){
     header{
         position: absolute;
         padding: 30px;
